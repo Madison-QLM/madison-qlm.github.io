@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'THE BOLD FONT';
+    src: url(/fonts/the_bold_font/THEBOLDFONT-FREEVERSION.woff),
+        url(/fonts/the_bold_font/THEBOLDFONT-FREEVERSION.otf),
+        url(/fonts/the_bold_font/THEBOLDFONT-FREEVERSION.ttf);
+}

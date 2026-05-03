@@ -1,3 +1,5 @@
+@import url(/fonts.css);
+
 :root {
     --header-height: 108px;
     --accent: #f5abb9;
@@ -33,6 +35,10 @@ header {
     flex-flow: row;
     height: 100%;
     align-items: center;
+}
+
+header h1 {
+    font-family: 'THE BOLD FONT';
 }
 
 header a, h2 a {
