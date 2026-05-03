@@ -38,6 +38,7 @@ header a.header-link {
     line-height: var(--header-height);
     text-decoration: none;
     color: black;
+    transition: background .25s;
 }
 
 header > * {
@@ -61,6 +62,7 @@ main, .header-container {
 .card {
     border-left: 1px solid lightgray;
     padding-left: 20px;
+    margin-bottom: 40px;
 }
 
 .card-date {
