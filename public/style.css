@@ -11,6 +11,10 @@ body {
     font-family:Arial, Helvetica, sans-serif;
 }
 
+p a, li a {
+    color: var(--link);
+}
+
 header {
     height: var(--header-height);
     background: var(--accent);
@@ -54,10 +58,6 @@ header a.header-link:hover {
     background: #eaa4b1;
 }
 
-a {
-    color: var(--link);
-}
-
 main, .header-container {
     max-width: 1080px;
     margin-left: auto;
@@ -72,8 +72,4 @@ main, .header-container {
 
 .card-date {
     color: #666;
-}
-
-#calendar {
-    margin-top: 20px;
 }
