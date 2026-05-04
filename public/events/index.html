@@ -11,17 +11,16 @@
     
     
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
+<!--
 <script src='https://github.com/mozilla-comm/ical.js/releases/download/v1.4.0/ical.js'></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.20/index.global.min.js"></script>
+-->
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
             initialView: 'dayGridMonth',
-            events: {
-                url: 'https://user.fm/calendar/v1-22f672269cccee38fff486c908438217/QLM.ics',
-                format: 'ics'
-            }
+            events: '/events.json'
         });
         calendar.render();
     });
@@ -35,13 +34,12 @@
         <div class="header-container">
             <a id="home" href="/">
                 <!--TODO: logo-->
-                <img height="108px" width="108px" alt="Madison QLM logo">
+                <!--<img height="108px" width="108px" alt="Madison QLM logo">-->
                 <h1>Madison Queer Liberation March</h1>
             </a>
             <div>
                 <a class="header-link" href="/about">About</a>
                 <a class="header-link" href="/events">Events</a>
-                <a class="header-link" href="/contact">Contact</a>
             </div>
         </div>
     </header>

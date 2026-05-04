@@ -1,14 +1,9 @@
 +++
 title = "Announcing the 2026 Queer Liberation March!"
-date = 2026-04-30
+date = "2026-05-04"
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In faucibus mi dui, at luctus massa convallis eu. Ut urna arcu, vehicula at orci pellentesque, malesuada commodo lacus. Aenean a nunc est. In pellentesque gravida quam, vel accumsan arcu lacinia non. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris sapien metus, convallis sed ligula et, sagittis efficitur lectus. Etiam massa lorem, bibendum ut urna ut, ornare blandit orci. Fusce rhoncus, ex ut fermentum pellentesque, metus libero viverra metus, eu porta magna eros id elit. Etiam aliquam nunc et efficitur mattis. Phasellus vitae tristique leo. Nulla maximus quis quam ut molestie. Nullam eu fermentum tortor.
-
-Aenean faucibus vitae dolor vel vulputate. Pellentesque nec risus ipsum. Praesent ullamcorper orci vel nulla egestas tincidunt. Vivamus vitae neque nulla. Etiam eget enim in sem accumsan commodo. Suspendisse lobortis hendrerit sagittis. Quisque ac velit est.
-
-Nunc in dapibus arcu. Nullam id mauris sit amet leo rutrum congue. Donec iaculis a quam quis semper. Aliquam at elit augue. Suspendisse at mollis justo. Praesent accumsan nulla vel neque consequat, et tempor leo vulputate. Nam sit amet tempus risus. Praesent vulputate semper lorem, eget tristique mi auctor aliquet. Phasellus sodales sagittis ex.
-
-Quisque non pellentesque tellus. Aliquam ac est ut quam faucibus luctus non id purus. Nam tristique, turpis a pretium consequat, felis nisl pulvinar turpis, vitae fermentum urna nisl non magna. Sed varius id libero quis dignissim. Aenean eu metus ut quam dictum pharetra a vitae tortor. Praesent neque dolor, volutpat laoreet leo quis, varius commodo magna. Quisque augue turpis, mollis ut erat nec, aliquam tempor felis. Cras tempor dapibus rhoncus. Nunc in faucibus libero, porttitor vulputate sapien. Vivamus vitae imperdiet turpis, vitae sagittis elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-Duis tortor eros, viverra et scelerisque vitae, venenatis in tortor. Nam mattis dapibus euismod. Fusce quis elit faucibus turpis facilisis dignissim sit amet nec diam. Mauris accumsan risus sed leo venenatis eleifend. Nam a ultrices quam, sed fermentum arcu. Curabitur ipsum mauris, fermentum vel augue sed, venenatis accumsan ante. Donec rhoncus dignissim euismod. Aliquam venenatis ac enim eget posuere. Praesent ac lorem ut nisi tincidunt pellentesque eu sed metus. Integer at volutpat elit. Vivamus pretium augue vel egestas eleifend. Sed sed lorem id risus lacinia maximus. Fusce non massa sodales, facilisis eros fringilla, blandit neque. Proin posuere dolor lacus, id dignissim diam mollis quis. 
+The 2nd annual Madison Queer Liberation March will be happening on June 13, 2026. Starting at 10 AM at [McPike Park](https://www.openstreetmap.org/way/265719255), we will march to the capitol with the following demands to Defend Bodily Autonomy:
+- Protect Trans Youth
+- Healthcare for All
+- Empower Queer Workers

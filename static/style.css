@@ -4,7 +4,7 @@
     --header-height: 108px;
     --accent: #f5abb9;
     --accent2: #5bcffa;
-    --link: var(--accent2);
+    --link: #065E7F;
 }
 
 body {
@@ -77,6 +77,18 @@ main, .header-container {
     margin-bottom: 40px;
 }
 
-.card-date {
+.post-date {
     color: #666;
+}
+
+#index-content {
+    font-size: 14pt;
+}
+
+.logo {
+    max-height: 128px;
+}
+
+#logos {
+    text-align: center;
 }
