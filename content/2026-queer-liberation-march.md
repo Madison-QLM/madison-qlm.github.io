@@ -13,10 +13,9 @@ The 2nd annual Madison Queer Liberation March will be happening on June 13, 2026
 - Protect Trans Youth
 - Healthcare for All
 - Empower Queer Workers
-
+<!--
 The 2026 Queer Liberation March is organized by:
 
-<!--
 <div id="logos">
     <a href="https://dsamadison.org">
         <img class="logo" src="/img/madsa-logo.png" alt="Madison Area DSA">
