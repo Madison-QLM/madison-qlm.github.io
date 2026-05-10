@@ -97,9 +97,19 @@ figure {
     text-align: center;
 }
 
+@media (min-width: 790px) {
+    figure img {
+        max-width: 50%;
+    }
+}
+
 @media (max-width: 790px) {
     .header-link {
         height: 64px !important;
         line-height: 64px !important;
+    }
+
+    figure img {
+        max-width: 100%;
     }
 }
