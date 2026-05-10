@@ -96,3 +96,10 @@ main, .header-container {
 figure {
     text-align: center;
 }
+
+@media (max-width: 790px) {
+    .header-link {
+        height: 64px !important;
+        line-height: 64px !important;
+    }
+}
