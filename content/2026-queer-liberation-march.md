@@ -35,9 +35,7 @@ Importantly for trans and non-binary workers specifically is the need to expand 
 
 Above all, independent of any demands we make of our political representatives, we need to build effective worker institutions. This means organizing labor unions, creating worker cooperatives, building tenant power, and coming together with our neighbors to form community coalitions. This infrastructure is the foundation of worker power across all demographics. 
 
-
-<!--
-The 2026 Queer Liberation March is organized by:
+### The 2026 Queer Liberation March is organized by:
 
 <div id="logos">
     <a href="https://dsamadison.org">
@@ -55,9 +53,22 @@ The 2026 Queer Liberation March is organized by:
     <a href="https://frso.org/">
         <img class="logo" src="/img/frso-logo.png" alt="Freedom Road Socialist Organization">
     </a>
-    <a href="https://www.facebook.com/MadisonSocialistAlternative/">
+    <a href="http://socialistalternative.org/">
         <img class="logo" src="/img/salt-logo.png" alt="Socialist Alternative">
     </a>
+    <a href="https://pslweb.org/">
+        <img class="logo" src="/img/PSL-logo.svg" alt="Party for Socialism and Liberation">
+    </a>
+    <a href="https://afscme32.org/afscme-wisconsin-local-1">
+        <img class="logo" src="/img/afscme-local-1-logo.jpg" alt="AFSCME Local 1">
+    </a>
+    <a href="https://madworc.coop/">
+        <img class="logo" src="/img/madworc-logo.jpeg" alt="Madison Worker Co-ops">
+    </a>
+    <a href="https://www.communitypharmacy.coop/">
+        <img class="logo" src="/img/community-pharmacy-logo.jpeg" alt="Community Pharmacy">
+    </a>
+    <a href="https://wibailoutpeople.org/">
+        <img class="logo" src="/img/wibopm-logo.jpg" alt="Wisconsin Bail Out the People Movement">
+    </a>
 </div>
-
--->
