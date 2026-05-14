@@ -119,4 +119,16 @@ figure {
     figure img {
         max-width: 100%;
     }
+
+    main {
+        margin-top: unset;
+    }
+
+    header {
+        position: relative;
+    }
+
+    .logo {
+        max-width: 100%;
+    }
 }
