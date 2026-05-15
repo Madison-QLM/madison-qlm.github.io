@@ -94,6 +94,7 @@ main {
 
 .logo {
     max-height: 128px;
+    max-width: 350px;
 }
 
 #logos {
