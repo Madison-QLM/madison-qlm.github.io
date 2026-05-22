@@ -75,4 +75,7 @@ Above all, independent of any demands we make of our political representatives, 
     <a href="https://wibailoutpeople.org/">
         <img class="logo" src="/img/wibopm-logo.jpg" alt="Wisconsin Bail Out the People Movement">
     </a>
+    <a href="https://locals.ueunion.org/1186/">
+        <img class="logo" src="/img/ue-1186-logo.jpeg" alt="UE Local 1186">
+    </a>
 </div>
