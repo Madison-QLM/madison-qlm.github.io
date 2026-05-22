@@ -1,6 +1,7 @@
 +++
 title = "Announcing the 2026 Queer Liberation March!"
 date = "2026-05-04"
+updated = "2026-05-21"
 +++
 
 <figure>
@@ -35,9 +36,8 @@ Importantly for trans and non-binary workers specifically is the need to expand 
 
 Above all, independent of any demands we make of our political representatives, we need to build effective worker institutions. This means organizing labor unions, creating worker cooperatives, building tenant power, and coming together with our neighbors to form community coalitions. This infrastructure is the foundation of worker power across all demographics. 
 
-### The 2026 Queer Liberation March is organized by:
-
 <div id="logos">
+    <h2>The 2026 Queer Liberation March is organized by</h2>
     <a href="https://dsamadison.org">
         <img class="logo" src="/img/madsa-logo.png" alt="Madison Area DSA">
     </a>
@@ -53,11 +53,15 @@ Above all, independent of any demands we make of our political representatives, 
     <a href="https://frso.org/">
         <img class="logo" src="/img/frso-logo.png" alt="Freedom Road Socialist Organization">
     </a>
-    <a href="http://socialistalternative.org/">
-        <img class="logo" src="/img/salt-logo.png" alt="Socialist Alternative">
-    </a>
     <a href="https://pslweb.org/">
         <img class="logo" src="/img/PSL-logo.svg" alt="Party for Socialism and Liberation">
+    </a>
+    <a href="https://www.scfl.org/">
+        <img class="logo" src="/img/scfl-logo.png" alt="South Central Federation of Labor">
+    </a>
+    <h2>and endorsed by</h2>
+    <a href="http://socialistalternative.org/">
+        <img class="logo" src="/img/salt-logo.png" alt="Socialist Alternative">
     </a>
     <a href="https://afscme32.org/afscme-wisconsin-local-1">
         <img class="logo" src="/img/afscme-local-1-logo.jpg" alt="AFSCME Local 1">
