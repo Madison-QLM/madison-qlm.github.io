@@ -36,7 +36,7 @@ Importantly for trans and non-binary workers specifically is the need to expand 
 
 Above all, independent of any demands we make of our political representatives, we need to build effective worker institutions. This means organizing labor unions, creating worker cooperatives, building tenant power, and coming together with our neighbors to form community coalitions. This infrastructure is the foundation of worker power across all demographics. 
 
-<div id="logos">
+<div class="logos">
     <h2>The 2026 Queer Liberation March is organized by</h2>
     <a href="https://dsamadison.org">
         <img class="logo" src="/img/madsa-logo.png" alt="Madison Area DSA">
@@ -59,6 +59,8 @@ Above all, independent of any demands we make of our political representatives, 
     <a href="https://www.scfl.org/">
         <img class="logo" src="/img/scfl-logo.png" alt="South Central Federation of Labor">
     </a>
+</div>
+<div class="logos">
     <h2>and endorsed by</h2>
     <a href="http://socialistalternative.org/">
         <img class="logo" src="/img/salt-logo.png" alt="Socialist Alternative">
