@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block head %}
+    <meta property="og:type" content="website" />
+{% endblock head %}
+
 {% block content %}
 <h1 class="title">
   {{ section.title }}
