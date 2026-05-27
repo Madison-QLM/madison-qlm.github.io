@@ -1,7 +1,7 @@
 +++
 title = "Announcing the 2026 Queer Liberation March!"
 date = "2026-05-04"
-updated = "2026-05-21"
+updated = "2026-05-27"
 +++
 
 <figure>
@@ -67,6 +67,9 @@ Above all, independent of any demands we make of our political representatives, 
     </a>
     <a href="https://afscme32.org/afscme-wisconsin-local-1">
         <img class="logo" src="/img/afscme-local-1-logo.jpg" alt="AFSCME Local 1">
+    </a>
+    <a href="https://afscme32.org/afscme-local-171">
+        <img class="logo" src="/img/afscme-171-logo.jpg" alt="AFSCME Local 171">
     </a>
     <a href="https://madworc.coop/">
         <img class="logo" src="/img/madworc-logo.jpeg" alt="Madison Worker Co-ops">

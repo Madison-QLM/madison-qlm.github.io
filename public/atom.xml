@@ -4,12 +4,12 @@
     <link rel="self" type="application/atom+xml" href="https://madisonqlm.org/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://madisonqlm.org"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2026-05-21T00:00:00+00:00</updated>
+    <updated>2026-05-27T00:00:00+00:00</updated>
     <id>https://madisonqlm.org/atom.xml</id>
     <entry xml:lang="en">
         <title>Announcing the 2026 Queer Liberation March!</title>
         <published>2026-05-04T00:00:00+00:00</published>
-        <updated>2026-05-21T00:00:00+00:00</updated>
+        <updated>2026-05-27T00:00:00+00:00</updated>
         
         <author>
           <name>
@@ -70,6 +70,9 @@
     &lt;&#x2F;a&gt;
     &lt;a href=&quot;https:&#x2F;&#x2F;afscme32.org&#x2F;afscme-wisconsin-local-1&quot;&gt;
         &lt;img class=&quot;logo&quot; src=&quot;&#x2F;img&#x2F;afscme-local-1-logo.jpg&quot; alt=&quot;AFSCME Local 1&quot;&gt;
+    &lt;&#x2F;a&gt;
+    &lt;a href=&quot;https:&#x2F;&#x2F;afscme32.org&#x2F;afscme-local-171&quot;&gt;
+        &lt;img class=&quot;logo&quot; src=&quot;&#x2F;img&#x2F;afscme-171-logo.jpg&quot; alt=&quot;AFSCME Local 171&quot;&gt;
     &lt;&#x2F;a&gt;
     &lt;a href=&quot;https:&#x2F;&#x2F;madworc.coop&#x2F;&quot;&gt;
         &lt;img class=&quot;logo&quot; src=&quot;&#x2F;img&#x2F;madworc-logo.jpeg&quot; alt=&quot;Madison Worker Co-ops&quot;&gt;
