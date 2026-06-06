@@ -1,7 +1,7 @@
 +++
 title = "Announcing the 2026 Queer Liberation March!"
 date = "2026-05-04"
-updated = "2026-06-02"
+updated = "2026-06-06"
 +++
 
 <figure>
@@ -85,5 +85,8 @@ Above all, independent of any demands we make of our political representatives, 
     </a>
     <a href="https://freedom-inc.org/">
         <img class="logo" src="/img/freedom-inc-logo.png" alt="Freedom, Inc.">
+    </a>
+    <a href="https://linktr.ee/socialisthorizonmadison">
+        <img class="logo" src="/img/socialist-horizon-logo.png" alt="Socialist Horizon">
     </a>
 </div>
