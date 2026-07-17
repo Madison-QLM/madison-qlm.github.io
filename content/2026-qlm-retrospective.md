@@ -1,0 +1,33 @@
++++
+title = "2026 QLM Retrospective"
+date = "2026-07-17"
+updated = "2026-07-17"
++++
+
+Our second annual Queer Liberation March this past June was a great success. We marched for our rights down Willy street and around the Capitol Square. We spoke out against the injustices that still face queer people across the country and in our very state. We met with each other, we shared our common struggles, and we grew as a community. 
+
+Now we want to look back on the march, celebrate our successes, highlight some lessons learned, and emphasize our goals moving forward.
+
+First and foremost, we stayed safe. Our marshalling team successfully guided us down busy streets, across high traffic intersections, and through a densely populated farmers market all while sustaining no injuries. We even marched through Madison's "Safety Saturday" - a yearly event that hosts several Madison municipal services, including several police departments - without any incidents. We protested police occupation right to their faces and stayed safe while doing so.
+
+We heard some really great speeches from community members. Emma from the Trans Resistance Action Committee called on us to protect trans youth. They spoke about UW Health's recent decision to discontinue gender affirming care for minor patients. Vi, a member of the Party for Socialism and Liberation, focused on empowering queer workers, highlighting the disastrous Act 10 and "Right to Work" laws in Wisconsin. Milcah from Freedom Inc closed us out by shouting out our need to defend our bodily autonomy at the steps of the state capitol.
+
+We even had some candidates for office take notice of the march and joined in our struggle. Former Alder Juliana Bennett, who is running for state assembly district 76, joined the march to support our rights and to show solidarity.
+
+We as a planning committee have also reflected on how we want to improve the march in the future. Our greatest ambition is to build the march into a mass movement. This would involve many more organization endorsements and contributions as well as an increase in the number of people participating in the march. In particular, we'd like to get unions like MTI, UFAS, UE, and others involved in planning the march and spreading the word to their members.
+
+We also realized this time around that the march moved at a quick pace. In some ways, that's good. A quick pace keeps our energy up and our marchers engaged. But we need to be careful not to stretch the march out or leave anyone behind.
+
+As we look forward to future action, including our Fall fundraiser and next year's march, we have a number of goals we are looking to achieve. As always, our primary goal is to get people organized. We encourage every person attending our marches to join one of the [organizations that helped to make it happen](/2026-queer-liberation-march#organizers). All of these organizations are working to further the socialist causes we stand for, including protecting trans youth, empowering queer workers, and providing healthcare for all.
+
+Through these organizations as well as individual efforts from each of us, we seek to pressure elected officials, healthcare organizations, and our individual workplaces to create laws, provide services, and administer working conditions that promote justice, safety, and equality for queer workers alongside all marginalized peoples.
+
+One specific goal we want to keep in our sights is resumption of gender affirming care for minors through healthcare organizations like UW Health, Children's Hospital, and Froedtert. This was a recent rollback of healthcare rights in our state that were a direct result of the Trump administration's illegal attempt to block federal funding for hospitals that provide this care. We have pressured UW Health specifically to at least justify their "pause" in providing this care when a judge has already ruled that this secession of funds is illegal. We also directly asked our elected officials what they will do to secure these rights for trans youth moving forward.
+
+Finally, we want to ensure that each and every participant in the Queer Liberation March understands that these marches are never the end, they are the beginning. The goal of these marches is not just to make our voices heard. The goal is to bring us all together into a community of queer people and allies to advocate for our rights together.
+
+We can't wait to plan and host our fundraiser later this Fall and the next March in June 2027.
+
+Solidarity Forever,
+
+Queer Liberation March Planning Committee

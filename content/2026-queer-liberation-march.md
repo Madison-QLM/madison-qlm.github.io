@@ -37,7 +37,7 @@ Importantly for trans and non-binary workers specifically is the need to expand 
 Above all, independent of any demands we make of our political representatives, we need to build effective worker institutions. This means organizing labor unions, creating worker cooperatives, building tenant power, and coming together with our neighbors to form community coalitions. This infrastructure is the foundation of worker power across all demographics. 
 
 <div class="logos">
-    <h2>The 2026 Queer Liberation March is organized by</h2>
+    <h2 id="organizers">The 2026 Queer Liberation March is organized by</h2>
     <a href="https://dsamadison.org">
         <img class="logo" src="/img/madsa-logo.png" alt="Madison Area DSA">
     </a>
