@@ -3,6 +3,7 @@
 :root {
     --header-height: 108px;
     --accent: #f5abb9;
+    --accent-hover: #eaa4b1;
     --accent2: #5bcffa;
     --link: #065E7F;
 }
@@ -63,7 +64,7 @@ header > * {
 }
 
 header a.header-link:hover {
-    background: #eaa4b1;
+    background: var(--accent-hover);
 }
 
 main, .header-container {
@@ -111,11 +112,16 @@ figure {
     padding: 10px;
     border-radius: 10px;
     margin-left: 10px;
+    transition: background .25s;
 }
 
 #subscribe-button a {
     text-decoration: none;
     color: black;
+}
+
+#subscribe-button:hover {
+    background: var(--accent-hover);
 }
 
 #events-title {
