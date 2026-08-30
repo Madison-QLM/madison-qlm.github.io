@@ -105,6 +105,24 @@ figure {
     text-align: center;
 }
 
+#subscribe-button {
+    background: var(--accent);
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+#subscribe-button a {
+    text-decoration: none;
+    color: black;
+}
+
+#events-title {
+    display: flex;
+    align-items: center;
+}
+
 @media (min-width: 790px) {
     figure img {
         max-width: 50%;

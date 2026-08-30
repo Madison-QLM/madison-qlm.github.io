@@ -21,6 +21,13 @@
 {% endblock head %}
 
 {% block content %}
-<h1 class="title">{{ section.title }}</h1>
+<div id="events-title">
+    <h1 style="display: inline;" class="title">{{ section.title }}</h1>
+    <span id="subscribe-button">
+        <a href="https://calendar.proton.me/api/calendar/v1/url/eKPcvuKIl3ADAbzw1HP5MNyD4Yz2wh9I95m4c7IZb9GbwJJ0NjH-sZYYmLgpcRzbVW5eVmBGtu4RW1bTwDMKCA==/calendar.ics?CacheKey=LLquUihpVp5CdmL6vjHhxA%3D%3D&PassphraseKey=Kg7QHczodSHzSUZQQQd2xIeUIgW4WfytRbnHwncLbLw%3D">
+            Subscribe
+        </a>
+    </span>
+</div>
 <div id="calendar"></div>
 {% endblock content %}
