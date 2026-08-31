@@ -16,16 +16,17 @@
     <meta property="og:site_name" content="Madison Queer Liberation March" />
     
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
-<!--
 <script src='https://github.com/mozilla-comm/ical.js/releases/download/v1.4.0/ical.js'></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.20/index.global.min.js"></script>
--->
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
             initialView: 'listMonth',
-            events: '/events.json'
+            events: {
+                url: 'https://calendar.proton.me/api/calendar/v1/url/eKPcvuKIl3ADAbzw1HP5MNyD4Yz2wh9I95m4c7IZb9GbwJJ0NjH-sZYYmLgpcRzbVW5eVmBGtu4RW1bTwDMKCA==/calendar.ics?CacheKey=LLquUihpVp5CdmL6vjHhxA%3D%3D&PassphraseKey=Kg7QHczodSHzSUZQQQd2xIeUIgW4WfytRbnHwncLbLw%3D',
+                format: 'ics'
+            }
         });
         calendar.render();
     });
@@ -49,7 +50,14 @@
     </header>
     <main>
         
-<h1 class="title">Events</h1>
+<div id="events-title">
+    <h1 style="display: inline;" class="title">Events</h1>
+    <span id="subscribe-button">
+        <a href="https://calendar.proton.me/api/calendar/v1/url/eKPcvuKIl3ADAbzw1HP5MNyD4Yz2wh9I95m4c7IZb9GbwJJ0NjH-sZYYmLgpcRzbVW5eVmBGtu4RW1bTwDMKCA==/calendar.ics?CacheKey=LLquUihpVp5CdmL6vjHhxA%3D%3D&PassphraseKey=Kg7QHczodSHzSUZQQQd2xIeUIgW4WfytRbnHwncLbLw%3D">
+            Subscribe
+        </a>
+    </span>
+</div>
 <div id="calendar"></div>
 
     </main>
