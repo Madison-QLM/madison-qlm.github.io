@@ -3,6 +3,8 @@
 {% block head %}
     {% if page.description %}
     <meta name="description" content="{{ page.description }}">
+    {% elif page.summary %}
+    <meta name="description" content="{{ page.summary }}">
     {% else %}
     <meta name="description" content="{{ page.title }}">
     {% endif %}
