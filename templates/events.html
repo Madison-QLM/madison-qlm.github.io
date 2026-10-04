@@ -2,23 +2,24 @@
 
 {% block head %}
 <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.20/index.global.min.js'></script>
-<!--
+
 <script src='https://github.com/mozilla-comm/ical.js/releases/download/v1.4.0/ical.js'></script>
 <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/icalendar@6.1.20/index.global.min.js"></script>
--->
+
 <script>
+    const proxy = 'https://cors-proxy.madisonqlm.workers.dev';
+    const calendarURL = 'https://calendar.proton.me/api/calendar/v1/url/eKPcvuKIl3ADAbzw1HP5MNyD4Yz2wh9I95m4c7IZb9GbwJJ0NjH-sZYYmLgpcRzbVW5eVmBGtu4RW1bTwDMKCA==/calendar.ics?CacheKey=LLquUihpVp5CdmL6vjHhxA%3D%3D&PassphraseKey=Kg7QHczodSHzSUZQQQd2xIeUIgW4WfytRbnHwncLbLw%3D'
     document.addEventListener('DOMContentLoaded', function () {
         var calendarEl = document.getElementById('calendar');
         var calendar = new FullCalendar.Calendar(calendarEl, {
             initialView: 'listMonth',
-            events: '/events.json' /*{
-                url: 'https://calendar.proton.me/api/calendar/v1/url/eKPcvuKIl3ADAbzw1HP5MNyD4Yz2wh9I95m4c7IZb9GbwJJ0NjH-sZYYmLgpcRzbVW5eVmBGtu4RW1bTwDMKCA==/calendar.ics?CacheKey=LLquUihpVp5CdmL6vjHhxA%3D%3D&PassphraseKey=Kg7QHczodSHzSUZQQQd2xIeUIgW4WfytRbnHwncLbLw%3D',
+            events: {
+                url: `${proxy}/?url=${encodeURIComponent(calendarURL)}`,
                 format: 'ics'
-            }*/
+            }
         });
         calendar.render();
     });
-
 </script>
 {% endblock head %}
 
