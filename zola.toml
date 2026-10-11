@@ -8,6 +8,9 @@ compile_sass = false
 build_search_index = false
 
 generate_feeds = true
+feed_filenames = [ "atom.xml", "rss.xml" ]
+
+author = "Madison QLM"
 
 [markdown]
 
